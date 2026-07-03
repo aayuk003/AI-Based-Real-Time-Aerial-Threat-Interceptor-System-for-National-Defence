@@ -1,4 +1,4 @@
-readme = """
+
 # AI-Based Real-Time Aerial Threat Classification System
 
 ## Project Overview
@@ -60,12 +60,7 @@ Contains:
 - feature_importance.png
 - classification_report.txt
 
-"""
 
-with open("../README.md", "w", encoding="utf-8") as f:
-    f.write(readme)
-
-print("README generated") 
 ## Limitations
 
 - Dataset is synthetic and relatively small (200 samples)

@@ -65,4 +65,10 @@ Contains:
 with open("../README.md", "w", encoding="utf-8") as f:
     f.write(readme)
 
-print("README generated")
+print("README generated") 
+## Limitations
+
+- Dataset is synthetic and relatively small (200 samples)
+- Real radar environments contain sensor noise and changing conditions
+- Performance on operational radar systems may differ significantly
+- Future work could include time-series tracking, Kalman filtering, and real radar feeds

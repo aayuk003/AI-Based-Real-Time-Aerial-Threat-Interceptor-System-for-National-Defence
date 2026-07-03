@@ -1,0 +1,13 @@
+                      precision    recall  f1-score   support
+
+   Ballistic Missile       0.86      0.86      0.86         7
+ Commercial Aircraft       1.00      1.00      1.00         5
+      Cruise Missile       1.00      1.00      1.00         6
+         Fighter Jet       1.00      1.00      1.00         5
+  Hypersonic Missile       0.86      1.00      0.92         6
+Private/Civilian Jet       1.00      0.80      0.89         5
+           UAV/Drone       1.00      1.00      1.00         6
+
+            accuracy                           0.95        40
+           macro avg       0.96      0.95      0.95        40
+        weighted avg       0.95      0.95      0.95        40

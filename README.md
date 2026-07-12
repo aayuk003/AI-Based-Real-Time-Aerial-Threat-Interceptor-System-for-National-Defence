@@ -65,5 +65,5 @@ Contains:
 
 - Dataset is synthetic and relatively small (200 samples)
 - Real radar environments contain sensor noise and changing conditions
-- Performance on operational radar systems may differ significantly...
-- Future work could include time-series tracking, Kalman filtering, and real radar feeds...
+- Performance on operational radar systems may differ significantly
+- Future work could include time-series tracking, Kalman filtering, and real radar feeds
